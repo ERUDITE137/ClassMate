@@ -1,4 +1,4 @@
-###Class Mate
+   ###Class Mate
 
 A simple web-based classroom application that allows instructors to add courses with lessons, while students can enroll in these courses and track their progress. - developed using React, Node, Express and MongoDB. Class Mate is a comprehensive classroom management and communication tool designed to enhance the learning experience for students, teachers, and administrators alike. It aims to streamline academic operations, foster collaboration, and improve communication within educational institutions.
 
